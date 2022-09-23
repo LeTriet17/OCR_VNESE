@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 from imutils import paths
 
-inputDir = 'input/'
+inputDir = 'input_image/'
 outputDir = 'output/'
 # imageName = list(filter(lambda file: file[-3:] == 'png', os.listdir(inputDir)))
 imageName = list(paths.list_images(inputDir))

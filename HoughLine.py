@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def splitImageToColumns(imageNames, inputDir, columnsDir):
     for image in imageNames:
-        print('---------------------',image)
+        print('--------------------',image)
         img = plt.imread(inputDir + '/' + image) # Read in the image and convert to grayscale
 
         img = img[...,::-1]
@@ -115,7 +115,7 @@ def splitImageToColumns(imageNames, inputDir, columnsDir):
         cv2.imwrite(columnsDir + '/' + image[0:-4] + '-' + '1' + '.jpg', colRightImg)
 
 if __name__ == "__main__":
-    inputDir = 'input'
+    inputDir = 'input_image'
     imageName = list(filter(lambda file: file[-3:] == 'jpg', os.listdir(inputDir)))
     columnDir = 'splitColumn'
 
