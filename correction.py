@@ -1,6 +1,6 @@
 import os
 
-inputDir = 'output'
+inputDir = 'new_output'
 resultDir = 'result'
 path = os.listdir(inputDir)
 
