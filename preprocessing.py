@@ -18,5 +18,5 @@ def preprocess(fname):
 
 if __name__ == "__main__":
     inputDir = 'inputpdf/'
-    fname = inputDir + "LoR-Le-Thong-Minh-Triet.pdf"
+    fname = inputDir + "DÂN LÀNG HỒ.pdf"
     preprocess(fname)

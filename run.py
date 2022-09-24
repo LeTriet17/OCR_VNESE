@@ -1,5 +1,6 @@
 import pytesseract
 import cv2
+import os
 # from skimage import io
 import numpy as np
 from imutils import paths
@@ -8,6 +9,9 @@ inputDir = 'input_image/'
 outputDir = 'output/'
 # imageName = list(filter(lambda file: file[-3:] == 'png', os.listdir(inputDir)))
 imageName = list(paths.list_images(inputDir))
+# key = 'TESSDATA_PREFIX'
+# value = os.getenv(key)
+
 
 def loadImage(imgPath):
     img = cv2.imread(imgPath)

@@ -56,6 +56,4 @@ Dù chức năng chính là rút trích tiếng Bana đã được hiện thực
 - Kết quả rút trích tiếng Bana sử dụng Tesseract, nhưng hiện tại Tesseract, cũng như các model OCR khác chưa hỗ trợ tiếng Bana, nên kết quả là từ rút trích dưới dạng Tiếng Việt, sau đó sử dụng một vài hàm Heuristics để sửa các lỗi thường gặp
 
 
-## Tác giả
 
-[Tran Khanh Tung](https://github.com/KhanhTungTran)
