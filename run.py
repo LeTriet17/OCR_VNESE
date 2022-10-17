@@ -6,7 +6,7 @@ import numpy as np
 from imutils import paths
 from textblob import TextBlob
 inputDir = 'input_image/'
-outputDir = 'result/'
+outputDir = 'new_output/'
 # imageName = list(filter(lambda file: file[-3:] == 'png', os.listdir(inputDir)))
 imageName = list(paths.list_images(inputDir))
 
