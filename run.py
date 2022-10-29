@@ -5,12 +5,11 @@ import os
 import numpy as np
 from imutils import paths
 from textblob import TextBlob
+
 inputDir = 'input_image/'
 outputDir = 'new_output/'
 # imageName = list(filter(lambda file: file[-3:] == 'png', os.listdir(inputDir)))
 imageName = list(paths.list_images(inputDir))
-
-
 # def loadImage(imgPath):
 #     img = cv2.imread(imgPath)
 #     img = cv2.resize(img, None, fx=1.2, fy=1.2, interpolation=cv2.INTER_CUBIC)
@@ -46,10 +45,20 @@ imageName = list(paths.list_images(inputDir))
 
 # iterate over files in
 # that directory
+# for filename in os.listdir(inputDir):
+#     f = os.path.join(inputDir, filename)
+#     os.system(r'tesseract '+ f +' stdout --oem 3 --psm 0')
+#
+# for filename in os.listdir(inputDir):
+#     f = os.path.join(inputDir, filename)
+#     os.system('tesseract ' + f +' ' + outputDir+'/'+filename+' -l vie --oem 3 --psm 3')
 for filename in os.listdir(inputDir):
     f = os.path.join(inputDir, filename)
-    os.system(r'tesseract '+ f +' stdout --oem 3 --psm 0')
-
-for filename in os.listdir(inputDir):
-    f = os.path.join(inputDir, filename)
-    os.system('tesseract ' + f +' ' + outputDir+'/'+filename+' -l vie --oem 3 --psm 3')
+    img = cv2.imread(f)
+    # Shape of the image
+    # [rows, columns]
+    print(img.shape)
+    row = img.shape[0]
+    col = img.shape[1]
+    img = img[int(row * 0.1):, ]
+    cv2.imwrite(CROP_DIR+'/'+f, img)
