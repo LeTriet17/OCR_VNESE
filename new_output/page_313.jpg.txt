@@ -1,7 +1,3 @@
-(Đhụ lực 4: .Ôược vử Ớp “Xosfumt “Đân -Ôãng Zôầ
-
- 
-
 % 1852
 
 % 1853
@@ -19,25 +15,23 @@
 % 1908
 
 Lập 4 Tr. Tâm Truyền Giáo:
-$ Trung tâm Kon Kdxâm: Lm. Combes, Bổ trên Miền, phụ
 
-trách truyền giáo bộ tộc Bahnar-Jdldng.
+$ Trung lâm Kon Kdxâm: Lm. Combes, Bồ trên Miền, phụ
+trách truyền giáo bộ tộc Bahnar-Jdlong.
 
 * Trung tâm Plel Rưhai : Lm. Dégouis và Thầy Sáu Do, đặc
 trách truyền giáo bộ tộc Bahnar — Rơngao.
 
 + Trung tâm Kon Trang : Lm. Dourisboure, đặc trách truyền
-
 giáo bộ tộc Xê-đăng.
 
-Trung tâm Plel Chữ : Lm. Fontaine, đặc trách truyền giáo
-
++ Trung tâm Plei Chữ : Lm. Fontaine, đặc trách truyền giáo
 bộ tộc Jarai.
 
-s- D1.01. Lm. Dourisboure rửa tội đầu tiên: Em bé Xê-đăng
+s- 01.01. Lm. Dourisboure rửa tội đầu tiên: Em bé Xê-đăng
 hấp hối, tại Kon Trang.
 
-=- Khoảng giữa năm, Thầy Do về @ò Thị chuẩn bị thụ phong
+<- Khoảng giữa năm, Thầy Do về @ò Thị chuẩn bị thụ phong
 Linh mục.
 
 < Tháng 07 : Lm Đo về tại Trung tâm Rơhai với Lm Dégouts.
@@ -46,15 +40,11 @@ Linh mục.
 Giuse Ngui (+1858) và anh Gioan Pat, người Xê-đăng ở Kon
 Trang.
 
-*
-
-Bà
-
 " s 28.12. Ông Hmur, chủ làng Kon Koxâm, người tín hữu
 
-Bahnar-Jdlong đầu tiên.
+Bahnar-Jdldng đầu tiên.
 
-œ D0n số: 03 Tín hữu ; 06 Lm ( U1 Kinh ).
+œ D0n số: 03 Tín hữu ; 06 Lm ( 01 Kinh ).
 
 Chính quyền đốt phá 3 cơ sở: Bến, Trạm Gò và An Sơn. Bắt
 
@@ -62,12 +52,12 @@ Chính quyền đốt phá 3 cơ sở: Bến, Trạm Gò và An Sơn. Bắt
 
 œ 14.11. Cha Dombes qua đời tại Kon Koxâm,32 tuổi.
 
-œ 14.11. ĐC 6tệphanô Cuếnot Thể 'chết rũ từ' tại khám Bình
+œ 14.11. ĐC 6têphanô Cuếnot Thể 'chết rũ từ' tại khám Bình
 Định, sau 32 truyền giáo tại Việt Nam. Ngài sống và làm
 việc “để tín hữu vững tin và đào tạo những tông đồ truyền
 giáo”
 
-œ- 14.01. ÐG Stêphanô Cuénot Thể bị quật mồ và thả xác trôi
+œ- 14.01. ĐÐC Stêphanô Cuénot Thể bị quật mồ và thả xác trôi
 sông theo lệnh vưa.
 
 Giáo dân Miền Truyền giáo Kontum : 800 tín hữu
